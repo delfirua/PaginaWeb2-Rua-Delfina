@@ -81,7 +81,30 @@
 </section>
 
     <footer class="footer">
-        <p> Delfina Rua, 4to año-2026  </p>
+        <div class="columna">
+            <h4>ENLACES UTILES</h4>
+            <P>https://www.zara.com/ar/</P>
+
+        </div>
+        <div class="columna">
+            <h4>CONTACTO</h4>
+            <P>08003459120</P>
+
+        </div>
+        <div class="columna">
+            <h4>REDES SOCIALES</h4>
+            <P>@zaraargentina
+            </P>
+
+        </div>
+        <div class="columna">
+            <h4>CREDITOS</h4>
+            <P>Delfina rua, 4b
+            </P>
+
+        </div>
+
+        
     </footer>
         
     </body>

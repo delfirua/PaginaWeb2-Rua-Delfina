@@ -217,3 +217,9 @@
    color: wheat;
 
 }
+
+.columna{
+   flex:1px;
+   border: 1px solid black;
+   padding: 15px;
+}
