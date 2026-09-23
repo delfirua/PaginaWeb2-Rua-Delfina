@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Web</title>
+    <link rel="stylesheet" href="style.css">    
+</head>
+<body>
+    <header class="header">
+        <img src="./imagenes/logo.png" alt="Logo de la pagina" class="logo">
+        <nav class="menu">
+            <ul class="lista_paginas">
+                <li><a class="links" href="index.txt">Inicio</a></li>
+                <li><a class="links" href="pagina1.html">Pagina 1</a></li>
+                <li><a class="links" href="pagina2.html">pagina 2</a></li>
+                <li><a class="links" href="pagina3.html">pagina 3</a></li>
+              
+            </ul>
+        </nav>
+
+ </header>
+
+
+    <section class="principio">
+       <div class="tituloprncipio">
+            <h1>ZARA</h1>
+            <p class="textoprincipio"> Moda contemporanea, tendencias y estilos para todos los dias</p>
+
+        </div>
+        <div>
+            <img class="imagenprincipio" src="./imagenes/principio.jpeg">
+
+        </div>
+    </section>
+
+    <main class="centro">
+        <h2 class="titulocentro"> Descubri ZARA</h2>
+        <div class="cajas">
+        <div class="caja">
+            <div class="imgcaja"> <img class="img" src="./imagenes/foto.jpeg" ></div>
+            <h3 class="titulocaja"> NUEVA COLECCION </h3>
+            <p class="textocaja">Descubri las ultimas tendencias y novedades</p>
+
+            <a href="paginacoleccion" class="botoncaja">
+                Ver mas
+            </a>
+
+        </div>
+        <div class="caja">
+            <div class="imgcaja"> <img class="img" src="./imagenes/chica.jpeg" ></div>
+            <h3 class="titulocaja"> WOMEN </h3>
+            <p class="textocaja">prendas y propuestas actuales para cada ocasion</p>
+
+            <a href="paginawomen" class="botoncaja">
+                Ver mas
+            </a>
+        </div>
+        <div class="caja">
+            <div class="imgcaja"> <img class="img" src="./imagenes/chico.jpeg" ></div>
+            <h3 class="titulocaja"> MAN </h3>
+            <p class="textocaja">prendas y estilos contemporaneos para hombres</p>
+
+            <a href="paginamen" class="botoncaja">
+                Ver mas
+            </a>
+        </div>
+        <div class="caja">
+            <div class="imgcaja"> <img class="img" src="./imagenes/accesorios.jpeg" ></div>
+            <h3 class="titulocaja">ACCESORIOS </h3>
+            <p class="textocaja">bolsos,zapatos y accesorios para completar tu look</p>
+
+            <a href="paginaaccesorios" class="botoncaja">
+                Ver mas
+            </a>
+        </div>
+
+        </div>    
+</main>
+
+</section>
+
+    <footer class="footer">
+        <p> Delfina Rua, 4to año-2026  </p>
+    </footer>
+        
+    </body>
+
+
+        
+        
+  
+
+
+
+

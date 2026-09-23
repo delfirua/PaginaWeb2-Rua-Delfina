@@ -1,0 +1,219 @@
+*{
+    margin: 0%;
+    padding: 0;
+ }
+
+ body{ 
+    width: 1250px;
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .logo{ 
+    height: 70px;
+ }
+
+ .header{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #faebd7;
+    margin-bottom: 50px;
+ }
+
+ .menu{
+    padding-right: 20px;
+ }
+ .lista_paginas{
+    display: flex;
+    list-style: none;
+    gap: 5px;
+ }
+
+ .links{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .prop-tag{
+   justify-content: center;
+   align-items: center;
+ }
+
+ .principio{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    background-color: #faebd7;
+    border: 1px;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 14px;
+ }
+
+ .tituloprincipio{
+    font-size: 50px;
+    margin-bottom: 7px;
+ }
+
+ .textoprincipio{
+    font-size: 30px;
+    color: black;
+ }
+
+ .imagenprincipio{
+    width: 155px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+    border-radius: 5px;
+    overflow: hidden;
+    max-width: 1000px;
+    max-height: 850px;
+   
+
+ }
+
+ .imagenprincipio{
+    width: 100%;
+    height: 100%;
+    
+ }
+
+
+ .centro{
+    background-color: antiquewhite;
+    border: 1px;
+    border-radius: 5px;
+    padding: 14px;
+ }
+
+ .titulocentro{
+    color: rgb(122, 108, 90);
+    font-size:30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 12px;
+ }
+
+ .cajas{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+ }
+
+ .caja{
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+ }
+
+ .imgcaja{
+    height:350px;
+    width:250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #faebd7;
+    
+    border-radius: 4px;
+    margin-bottom: 8px;
+    overflow: hidden;
+
+ }
+
+ .img{
+    width: 100%;
+    height: 100%;
+    display: block;
+ }
+
+ .titulocaja{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  rgb(122, 108, 90);
+ }
+ 
+ .textocaja{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  rgb(122, 108, 90);
+ }
+
+ .botoncaja{
+    border: 1px solid rgb(0, 0, 0);
+    background-color:  rgb(122, 108, 90);
+    border-radius: 9px;
+    font-size:15px;
+    height: 20px;
+    width:100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+ }
+
+ .footer{
+   height: 80px;
+   background-color: antiquewhite;
+   color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .banner{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    margin: 0 auto;
+    background-color: #41696c;
+}
+.foto_banner{
+    height: 500px;  
+    width: 1200px;
+}
+
+.punteo{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    margin-bottom: 40px;
+    background-color: black;
+}
+
+.circulo{
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.circulo1{
+    background-color: rgb(160, 147, 131);
+}
+
+.circulo2{
+    background-color:  rgb(160, 147, 131);
+}
+
+.circulo3{
+    background-color: rgb(160, 147, 131);
+}
+
+.circulo4{
+    background-color:  rgb(160, 147, 131);
+}
+
+.textopunteo{
+   color: wheat;
+
+}

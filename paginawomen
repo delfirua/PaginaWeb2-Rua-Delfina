@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Web</title>
+    <link rel="stylesheet" href="style.css">    
+</head>
+<body>
+    <header class="header">
+        <img src="./imagenes/logo.png" alt="Logo de la pagina" class="logo">
+        <nav class="menu">
+            <ul class="lista_paginas">
+                <li><a class="links" href="index.txt">Inicio</a></li>
+                <li><a class="links" href="pagina1.html">Pagina 1</a></li>
+                <li><a class="links" href="pagina2.html">pagina 2</a></li>
+                <li><a class="links" href="pagina3.html">pagina 3</a></li>
+              
+            </ul>
+        </nav>
+
+
+ </header>
+ <section class="principio">
+       <div class="tituloprncipio">
+            <h1>WOMEN</h1>
+            
+
+        </div>
+        <div>
+            <img class="imagenprincipio" src="./imagenes/women.jpeg">
+
+        </div>
+    </section>
+
+     <main class="centro">
+        <h2 class="titulocentro"> WOMEN MODELS </h2>
+        <div class="cajas">
+        <div class="caja">
+            <div class="imgcaja"> <img class="img" src="./imagenes/women1.jpeg" ></div>
+           
+        </div>
+        <div class="caja">
+            <div class="imgcaja"> <img class="img" src="./imagenes/women2.jpeg" ></div>
+            
+        </div>
+        <div class="caja">
+            <div class="imgcaja"> <img class="img" src="./imagenes/women3.jpeg" ></div>
+            
+        </div>
+        <div class="caja">
+            <div class="imgcaja"> <img class="img" src="./imagenes/women4.jpeg" ></div>
+            
+        </div>
+
+        </div>    
+</main>
+
+</section>
+
+    <footer class="footer">
+        <p> Delfina Rua, 4to año-2026  </p>
+    </footer>
+        
+    </body>
